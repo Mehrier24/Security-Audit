@@ -5,12 +5,12 @@
 Please open the files in the following order:  
 
 
-Senario1 ,          
+Senario1         
 
-Control Categories,       
-
-
-Risk Assesment Report,       
+Control Categories      
 
 
-Controls and Complaince Checklist,
+Risk Assesment Report      
+
+
+Controls and Complaince Checklist
